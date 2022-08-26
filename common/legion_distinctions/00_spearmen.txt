@@ -1,7 +1,7 @@
 ﻿### SPEARMEN OFFENSIVE ###
 
 distinction_spearmen_offensive_01 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -11,7 +11,7 @@ distinction_spearmen_offensive_01 = {
 }
 
 distinction_spearmen_offensive_02 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -21,7 +21,7 @@ distinction_spearmen_offensive_02 = {
 }
 
 distinction_spearmen_offensive_03 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -32,7 +32,7 @@ distinction_spearmen_offensive_03 = {
 
 
 distinction_spearmen_offensive_04 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -42,7 +42,7 @@ distinction_spearmen_offensive_04 = {
 }
 
 distinction_spearmen_offensive_05 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -52,7 +52,7 @@ distinction_spearmen_offensive_05 = {
 }
 
 distinction_spearmen_offensive_06 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -62,7 +62,7 @@ distinction_spearmen_offensive_06 = {
 }
 
 distinction_spearmen_offensive_07 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -72,7 +72,7 @@ distinction_spearmen_offensive_07 = {
 }
 
 distinction_spearmen_offensive_08 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -82,7 +82,7 @@ distinction_spearmen_offensive_08 = {
 }
 
 distinction_spearmen_offensive_09 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -92,7 +92,7 @@ distinction_spearmen_offensive_09 = {
 }
 
 distinction_spearmen_offensive_10 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -102,7 +102,7 @@ distinction_spearmen_offensive_10 = {
 }
 
 distinction_spearmen_offensive_11 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -112,7 +112,7 @@ distinction_spearmen_offensive_11 = {
 }
 
 distinction_spearmen_offensive_12 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -122,7 +122,7 @@ distinction_spearmen_offensive_12 = {
 }
 
 distinction_spearmen_offensive_13 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -132,7 +132,7 @@ distinction_spearmen_offensive_13 = {
 }
 
 distinction_spearmen_offensive_14 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -142,7 +142,7 @@ distinction_spearmen_offensive_14 = {
 }
 
 distinction_spearmen_offensive_15 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -151,7 +151,7 @@ distinction_spearmen_offensive_15 = {
 	}
 }
 distinction_spearmen_offensive_16 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -160,7 +160,7 @@ distinction_spearmen_offensive_16 = {
 	}
 }
 distinction_spearmen_offensive_17 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -169,7 +169,7 @@ distinction_spearmen_offensive_17 = {
 	}
 }
 distinction_spearmen_offensive_18 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -178,7 +178,7 @@ distinction_spearmen_offensive_18 = {
 	}
 }
 distinction_spearmen_offensive_19 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -187,7 +187,7 @@ distinction_spearmen_offensive_19 = {
 	}
 }
 distinction_spearmen_offensive_20 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -200,7 +200,7 @@ distinction_spearmen_offensive_20 = {
 ### SPEARMEN DEFENSIVE ###
 
 distinction_spearmen_defensive_01 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -210,7 +210,7 @@ distinction_spearmen_defensive_01 = {
 }
 
 distinction_spearmen_defensive_02 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -220,7 +220,7 @@ distinction_spearmen_defensive_02 = {
 }
 
 distinction_spearmen_defensive_03 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -231,7 +231,7 @@ distinction_spearmen_defensive_03 = {
 
 
 distinction_spearmen_defensive_04 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -241,7 +241,7 @@ distinction_spearmen_defensive_04 = {
 }
 
 distinction_spearmen_defensive_05 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -251,7 +251,7 @@ distinction_spearmen_defensive_05 = {
 }
 
 distinction_spearmen_defensive_06 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -261,7 +261,7 @@ distinction_spearmen_defensive_06 = {
 }
 
 distinction_spearmen_defensive_07 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -271,7 +271,7 @@ distinction_spearmen_defensive_07 = {
 }
 
 distinction_spearmen_defensive_08 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -281,7 +281,7 @@ distinction_spearmen_defensive_08 = {
 }
 
 distinction_spearmen_defensive_09 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -291,7 +291,7 @@ distinction_spearmen_defensive_09 = {
 }
 
 distinction_spearmen_defensive_10 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -301,7 +301,7 @@ distinction_spearmen_defensive_10 = {
 }
 
 distinction_spearmen_defensive_11 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -311,7 +311,7 @@ distinction_spearmen_defensive_11 = {
 }
 
 distinction_spearmen_defensive_12 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -321,7 +321,7 @@ distinction_spearmen_defensive_12 = {
 }
 
 distinction_spearmen_defensive_13 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -331,7 +331,7 @@ distinction_spearmen_defensive_13 = {
 }
 
 distinction_spearmen_defensive_14 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -341,7 +341,7 @@ distinction_spearmen_defensive_14 = {
 }
 
 distinction_spearmen_defensive_15 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -351,7 +351,7 @@ distinction_spearmen_defensive_15 = {
 }
 
 distinction_spearmen_defensive_16 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -361,7 +361,7 @@ distinction_spearmen_defensive_16 = {
 }
 
 distinction_spearmen_defensive_17 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -371,7 +371,7 @@ distinction_spearmen_defensive_17 = {
 }
 
 distinction_spearmen_defensive_18 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -381,7 +381,7 @@ distinction_spearmen_defensive_18 = {
 }
 
 distinction_spearmen_defensive_19 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -391,7 +391,7 @@ distinction_spearmen_defensive_19 = {
 }
 
 distinction_spearmen_defensive_20 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 
 	}
@@ -403,7 +403,7 @@ distinction_spearmen_defensive_20 = {
 ### SPEARMEN DISCIPLINE ###
 
 distinction_spearmen_discipline_1 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 		martial = 0
 	}
@@ -415,7 +415,7 @@ distinction_spearmen_discipline_1 = {
 }
 
 distinction_spearmen_discipline_2 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 		martial = 0
 	}
@@ -427,7 +427,7 @@ distinction_spearmen_discipline_2 = {
 }
 
 distinction_spearmen_discipline_3 = {
-	icon = "phalera_helmentman"
+	icon = "phalera_sword_shield"
 	commander = {
 		martial = 1
 	}
