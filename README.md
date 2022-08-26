@@ -1,2 +1,2 @@
-# imperator_legion_overhaul_invictus_compatibility-
+# imperator_legion_overhaul_invictus_compatibility
 Compatibility Patch for Invictus Mod
