@@ -1,0 +1,439 @@
+﻿### SPEARMEN OFFENSIVE ###
+
+distinction_spearmen_offensive_01 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.005
+	}
+}
+
+distinction_spearmen_offensive_02 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.01
+	}
+}
+
+distinction_spearmen_offensive_03 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.015
+	}
+}
+
+
+distinction_spearmen_offensive_04 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.02
+	}
+}
+
+distinction_spearmen_offensive_05 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.025
+	}
+}
+
+distinction_spearmen_offensive_06 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.03
+	}
+}
+
+distinction_spearmen_offensive_07 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.035
+	}
+}
+
+distinction_spearmen_offensive_08 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.04
+	}
+}
+
+distinction_spearmen_offensive_09 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.045
+	}
+}
+
+distinction_spearmen_offensive_10 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.05
+	}
+}
+
+distinction_spearmen_offensive_11 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.055
+	}
+}
+
+distinction_spearmen_offensive_12 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.06
+	}
+}
+
+distinction_spearmen_offensive_13 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.065
+	}
+}
+
+distinction_spearmen_offensive_14 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.07
+	}
+}
+
+distinction_spearmen_offensive_15 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.075
+	}
+}
+distinction_spearmen_offensive_16 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.08
+	}
+}
+distinction_spearmen_offensive_17 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.085
+	}
+}
+distinction_spearmen_offensive_18 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.09
+	}
+}
+distinction_spearmen_offensive_19 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.095
+	}
+}
+distinction_spearmen_offensive_20 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_offensive = 0.10
+	}
+}
+
+
+### SPEARMEN DEFENSIVE ###
+
+distinction_spearmen_defensive_01 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.005
+	}
+}
+
+distinction_spearmen_defensive_02 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.01
+	}
+}
+
+distinction_spearmen_defensive_03 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.015
+	}
+}
+
+
+distinction_spearmen_defensive_04 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.02
+	}
+}
+
+distinction_spearmen_defensive_05 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.025
+	}
+}
+
+distinction_spearmen_defensive_06 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.03
+	}
+}
+
+distinction_spearmen_defensive_07 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.035
+	}
+}
+
+distinction_spearmen_defensive_08 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.04
+	}
+}
+
+distinction_spearmen_defensive_09 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.045
+	}
+}
+
+distinction_spearmen_defensive_10 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.05
+	}
+}
+
+distinction_spearmen_defensive_11 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.055
+	}
+}
+
+distinction_spearmen_defensive_12 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.06
+	}
+}
+
+distinction_spearmen_defensive_13 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.065
+	}
+}
+
+distinction_spearmen_defensive_14 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.07
+	}
+}
+
+distinction_spearmen_defensive_15 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.075
+	}
+}
+
+distinction_spearmen_defensive_16 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.08
+	}
+}
+
+distinction_spearmen_defensive_17 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.085
+	}
+}
+
+distinction_spearmen_defensive_18 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.09
+	}
+}
+
+distinction_spearmen_defensive_19 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.095
+	}
+}
+
+distinction_spearmen_defensive_20 = {
+	icon = "phalera_helmentman"
+	commander = {
+
+	}
+	unit = {
+		spearmen_defensive = 0.10
+	}
+}
+
+### SPEARMEN DISCIPLINE ###
+
+distinction_spearmen_discipline_1 = {
+	icon = "phalera_helmentman"
+	commander = {
+		martial = 0
+	}
+	unit = {
+		loyalty_gain_chance_modifier = 0.025
+		spearmen_discipline = 0.025
+		spearmen_maintenance_cost = -0.05
+	}
+}
+
+distinction_spearmen_discipline_2 = {
+	icon = "phalera_helmentman"
+	commander = {
+		martial = 0
+	}
+	unit = {
+		loyalty_gain_chance_modifier = 0.05
+		spearmen_discipline = 0.05
+		spearmen_maintenance_cost = -0.075
+	}
+}
+
+distinction_spearmen_discipline_3 = {
+	icon = "phalera_helmentman"
+	commander = {
+		martial = 1
+	}
+	unit = {
+		loyalty_gain_chance_modifier = 0.10
+		spearmen_discipline = 0.10
+		spearmen_maintenance_cost = -0.10
+	}
+}

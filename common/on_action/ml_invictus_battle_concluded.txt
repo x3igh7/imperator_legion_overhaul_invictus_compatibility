@@ -1,0 +1,27 @@
+﻿## this loads after the legions main file (00_ml_battle_concluded)
+## add new events for great battles here
+on_great_battle_won_country = {
+	events = {
+		# terrain
+		ml_oasis_distinctions.1
+		ml_flood_plain_distinctions.1
+		ml_desert_hills_distinctions.1
+		# units
+		ml_spearmen_distinctions.1
+		ml_spearmen_distinctions.3
+		ml_spearmen_distinctions.5
+	}
+}
+
+on_great_battle_lost_country = {
+	events = {
+		#terrain
+		ml_oasis_distinctions.2
+		ml_flood_plain_distinctions.2
+		ml_desert_hills_distinctions.2
+		## units
+		ml_archer_distinctions.2
+		ml_archer_distinctions.4
+		ml_archer_distinctions.6
+	}
+}
