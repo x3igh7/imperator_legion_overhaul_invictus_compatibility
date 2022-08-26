@@ -1,7 +1,10 @@
-# imperator_legion_overhaul_invictus_compatibility
-Compatibility Patch for Invictus Mod
+[h1]Compatibility Patch for Invictus Mod[/h1]
 
 In your Imperator launcher, when enabling mods, the order should be:
-1) Legion Distinctions Overhaul
-2) Invictus
-3) Legion Distinctions Overhaul: Invictus Patch
+[olist]
+ [*] Legion Distinctions Overhaul
+ [*] Invictus
+ [*] Legion Distinctions Overhaul: Invictus Patch
+[/olist]
+
+[url=https://raw.githubusercontent.com/x3igh7/imperator_legion_overhaul_invictus_compatibility/master/legions_invictus_order.png]Example can be seen here[/url]
